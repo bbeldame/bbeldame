@@ -7,7 +7,7 @@
 - 📈 Building [an open source Dollar Cost Averaging tool](https://github.com/bbeldame/automated-dollar-cost-averaging) on different brokers API. 
 - 🏄‍♂️ Currently surfing the JamStack wave with Gatsby and Next.js.
 - 👓 Pronouns: He/Him.
-- ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/) and investing.
+- ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/)) and investing.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
