@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 Current main stack: Node, React, GraphQL, MongoDB, GCP, Kubernetes, Jest, Cypress.
 - 🔍 Creating a SAAS to helps QA teams and developers debugging front-ends.
-- 📈 Building [an open source Dollar Cost Averaging tool](https://harmonycalls.com) on different brokers API. 
+- 📈 Building [a Dollar Cost Averaging tool](https://harmonycalls.com) on different brokers API. 
 - 🏄‍♂️ Currently surfing the **JamStack** wave with Gatsby and Next.js.
 - 👓 Pronouns: He/Him.
 - ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/)) and investing.
