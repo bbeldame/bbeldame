@@ -1,12 +1,12 @@
 ## Hi 👋 I am Basile !
 
-### I'm the **CTO** of [Oyez](https://www.oyez.fr/), a French agency working on a React/Node stack helping clients grow their business with the latest technologies.
+### I'm the **CTO** of [Hyperspread](https://hyperspread.com/), a French startup helping retailers communicates locally.
 
 - 👨🏽‍💻 Current main stack: Node, React, GraphQL, MongoDB, GCP, Kubernetes, Jest, Cypress.
-- 🔍 Creating a SAAS to helps QA teams and developers debugging front-ends.
-- 📈 Building [a Dollar Cost Averaging tool](https://harmonycalls.com) on different brokers API. 
+- 🔍 Creating a SAAS to helps QA teams and developers debugging front-ends. (abandoned)
+- 📈 Building [a Dollar Cost Averaging tool](https://harmonycalls.com) on different brokers API. (abandoned)
 - ✍️ Writing some articles about tech on [bbelda.me](https://bbelda.me).
-- 🏄‍♂️ Currently surfing the **JamStack** wave with Gatsby and Next.js.
+- 🏄‍♂️ Currently surfing the **Web3** wave with Solidity on Avalanche.
 - 👓 Pronouns: He/Him.
 - ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/)) and investing.
 
