@@ -4,9 +4,10 @@
 
 - 👨🏽‍💻 Current main stack: Node, React, GraphQL, MongoDB, GCP, Kubernetes, Jest, Cypress.
 - 🔍 Creating a SAAS to helps QA teams and developers debugging front-ends. (abandoned)
-- 📈 Building [a Dollar Cost Averaging tool](https://harmonycalls.com) on different brokers API. (abandoned)
+- 📈 Built [a Dollar Cost Averaging tool](https://harmonycalls.com) on different brokers API. (abandoned)
 - ✍️ Writing some articles about tech on [bbelda.me](https://bbelda.me).
-- 🏄‍♂️ Currently surfing the **Web3** wave with Solidity on Avalanche.
+- 🌊 Surfed the **Web3** wave with Solidity on Avalanche.
+- 🏄‍ Currently surting the **Generative AI** wave with Stable Diffusion (e.g [graphica.me](https://graphica.me))
 - 👓 Pronouns: He/Him.
 - ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/)) and investing.
 
