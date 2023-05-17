@@ -9,7 +9,7 @@
 - 🌊 Surfed the **Web3** wave with Solidity on Avalanche.
 - 🏄‍ Currently surting the **Generative AI** wave with Stable Diffusion (e.g [graphica.me](https://graphica.me))
 - 👓 Pronouns: He/Him.
-- ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/)) and ecology.
+- ❤️ I like competitive gaming, Escape Games, movies ([Nolan](https://www.imdb.com/name/nm0634240/)/[NWR](https://www.imdb.com/name/nm0716347/)) and ecology 🌱.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
